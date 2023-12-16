@@ -176,6 +176,8 @@ const Blog: NextPage = () => {
             </div>
           </div>
         </div>
+        
+        #
         <div className="self-stretch bg-neutral-100 flex flex-col items-center justify-start py-[30px] px-0 text-sm text-slateblue">
           <div className="self-stretch flex flex-col items-start justify-start py-0 px-8">
             <div className="self-stretch flex flex-row items-start justify-start">
